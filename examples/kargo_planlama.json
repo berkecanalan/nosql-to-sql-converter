@@ -1,0 +1,26 @@
+[
+    {
+        "gonderi_no": "TR-44512A",
+        "durum": "Dağıtımda",
+        "alici": {
+            "isim": "Zeynep K.",
+            "telefon": "555-0192"
+        },
+        "rota_adimlari": [
+            {"islem": "Şubeye Ulaştı", "zaman": "08:30"},
+            {"islem": "Araca Yüklendi", "zaman": "09:45"}
+        ]
+    },
+    {
+        "gonderi_no": "TR-99834B",
+        "durum": "Teslim Edildi",
+        "alici": {
+            "isim": "Murat T.",
+            "telefon": "555-8834"
+        },
+        "rota_adimlari": [
+            {"islem": "Şubeye Ulaştı", "zaman": "10:00"},
+            {"islem": "Teslim Edildi", "zaman": "14:20"}
+        ]
+    }
+]

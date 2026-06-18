@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+dynamic_nosql.db
+.DS_Store
+__MACOSX/
+.env
+.idea/
+.vscode/

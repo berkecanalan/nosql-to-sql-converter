@@ -1,0 +1,16 @@
+{
+  "order id": 101,
+  "select": "test",
+  "ürün-adı": "Mouse",
+  "müşteri bilgi": {
+    "ad soyad": "Ali Veli",
+    "şehir-ilçe": "Kocaeli İzmit"
+  },
+  "satış kalemleri": [
+    {
+      "ürün kodu": "M001",
+      "birim-fiyat": 300,
+      "aktif mi": true
+    }
+  ]
+}

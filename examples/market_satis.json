@@ -1,0 +1,16 @@
+{
+    "satis_id": "SAT-8092",
+    "tarih": "2026-05-31",
+    "kasiyer": "Ahmet Yılmaz",
+    "magaza_adresi": {
+        "il": "Kocaeli",
+        "ilce": "İzmit",
+        "mahalle": "Yahyakaptan"
+    },
+    "toplam_tutar": 1450.50,
+    "sepet": [
+        {"urun_adi": "Süt", "kategori": "Gıda", "fiyat": 35.0},
+        {"urun_adi": "Deterjan", "kategori": "Temizlik", "fiyat": 210.0},
+        {"urun_adi": "Kahve", "kategori": "Gıda", "fiyat": 185.0}
+    ]
+}

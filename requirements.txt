@@ -1,0 +1,2 @@
+# No external Python packages required.
+# Built with Python standard libraries: tkinter, sqlite3, json, os, re.

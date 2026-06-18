@@ -1,0 +1,26 @@
+{
+    "sistem_kodu": "PC-GMR-2026",
+    "kullanim_amaci": "Oyun ve Geliştirme",
+    "bilesenler": {
+        "islemci": {
+            "model": "Ryzen 9 9900X",
+            "cekirdek": 12,
+            "onbellek": {
+                "L2": "12MB",
+                "L3": "64MB"
+            }
+        },
+        "ekran_karti": {
+            "model": "RTX 5080",
+            "vram": "16GB"
+        }
+    },
+    "oyun_performansi": [
+        {"oyun": "Counter-Strike 2", "cozunurluk": "1080p", "fps": 540},
+        {"oyun": "Valorant", "cozunurluk": "1440p", "fps": 480}
+    ],
+    "uyumlu_ramler": [
+        "32GB DDR5 6000MHz",
+        "64GB DDR5 6400MHz"
+    ]
+}

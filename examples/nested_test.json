@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "customer": {
+    "name": "Ali",
+    "address": {
+      "city": "Kocaeli",
+      "district": "İzmit"
+    }
+  },
+  "items": [
+    {
+      "product": "Mouse",
+      "price": 300,
+      "detail": {
+        "brand": "Logitech",
+        "warranty": true
+      },
+      "tags": ["gaming", "wireless"]
+    },
+    {
+      "product": "Keyboard",
+      "price": 700,
+      "detail": {
+        "brand": "Redragon",
+        "warranty": false
+      },
+      "tags": ["mechanical", "rgb"]
+    }
+  ]
+}
