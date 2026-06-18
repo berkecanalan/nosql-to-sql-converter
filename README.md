@@ -12,13 +12,12 @@ Bu proje, JSON formatındaki iç içe geçmiş NoSQL benzeri verileri analiz ede
 - Tkinter GUI ile veritabanı ve SQL şemasını görüntüleme
 
 ## Kullanılan Teknolojiler
-- Python
-- Tkinter
+- Python- Tkinter
 - SQLite
 - JSON parsing
 
 ## Nasıl Çalıştırılır
-python main.py
+python -m src.main
 
 ## Örnek Kullanım
 examples klasöründen bir JSON seçilir. Program otomatik olarak tablo şemasını oluşturur ve verileri SQLite’a aktarır.
